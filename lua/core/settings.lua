@@ -115,6 +115,7 @@ settings["lsp_deps"] = {
 	"lua_ls",
 	"pylsp",
 	"gopls",
+	"neocmake",
 }
 
 -- Set the general-purpose servers that will be installed during bootstrap here.
@@ -149,6 +150,7 @@ settings["dap_deps"] = {
 settings["treesitter_deps"] = {
 	"bash",
 	"c",
+	"cmake",
 	"cpp",
 	"css",
 	"go",
