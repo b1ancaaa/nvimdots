@@ -4,6 +4,6 @@ local settings = {}
 -- Examples
 settings["use_ssh"] = true
 
-settings["colorscheme"] = "folke/tokyonight.nvim"
+settings["colorscheme"] = "catppuccin"
 
 return settings
